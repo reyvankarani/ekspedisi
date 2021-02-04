@@ -1,6 +1,6 @@
 aplikasi jasa kirim barang simple
 
-Penggunaan
+Penggunaan :
 buat database dengan nama db_ekspedisi kemudian jalankan perintah SQL berikut
 
 CREATE TABLE `tb_pengirimanbarang` (
